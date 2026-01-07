@@ -1,4 +1,4 @@
-# 📊 JobGrid
+#JobGrid
 
 > **Search 18+ job platforms simultaneously. Find your dream job 10x faster.**
 
