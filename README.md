@@ -42,12 +42,13 @@
 ## 📥 Get JobGrid
 
 <p align="center">
-  <a href="https://chrome.google.com/webstore">
+  <a href=
+https://chromewebstore.google.com/detail/jkhlhjmahncflkopgjjglcffghbfllch?utm_source=item-share-cb">
     <img src="https://img.shields.io/badge/Get%20it%20on-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
   </a>
 </p>
 
-<p align="center"><em>🚀 Coming Soon to Chrome Web Store!</em></p>
+<p align="center"><em>🚀 Launched to Chrome Web Store!</em></p>
 
 ---
 
