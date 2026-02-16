@@ -119,7 +119,7 @@ If JobGrid helps you in your job search, please consider giving this repo a ⭐ 
 
 **Rikin Shah**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rikimshah787-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rikimshah787)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rikimshah787-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rikinshah787)
 [![GitHub](https://img.shields.io/badge/GitHub-rikinshah787-181717?style=flat-square&logo=github)](https://github.com/rikinshah787)
 
 ---
