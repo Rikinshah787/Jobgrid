@@ -1,22 +1,18 @@
-# JobGrid
+# 📊 JobGrid
 
-> **Search 18+ job platforms simultaneously. Find your dream job 10x faster.**
+**Search 20 job platforms simultaneously. Find your dream job 10x faster.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JobGrid-Multi--Platform%20Search-667eea?style=for-the-badge" alt="JobGrid">
-  <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension">
-  <img src="https://img.shields.io/badge/Price-Free%20Forever-00C853?style=for-the-badge" alt="Free">
-</p>
+![JobGrid Banner](https://img.shields.io/badge/JobGrid-Multi--Platform%20Job%20Search-667eea?style=for-the-badge)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Free Forever](https://img.shields.io/badge/Price-Free%20Forever-00C853?style=for-the-badge)
 
 ---
 
 ## ✨ What is JobGrid?
 
-**JobGrid** is a powerful Chrome extension that revolutionizes your job search. Instead of switching between dozens of job sites, search **LinkedIn, Indeed, Glassdoor, and 15+ more platforms** all at once in a beautiful split-screen view.
+JobGrid is a Chrome extension that revolutionizes your job search by letting you search **LinkedIn, Indeed, Glassdoor, and 17+ more platforms** all at once in a beautiful split-screen view.
 
----
-
-## 🚀 Magic Search Features
+### 🚀 Magic Search Features
 
 | Feature | Description |
 |---------|-------------|
@@ -29,55 +25,93 @@
 
 ---
 
-## 🌐 Supported Platforms (18+)
+## 🌐 Supported Platforms (20)
 
-| | | | | | |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| LinkedIn | Indeed | Glassdoor | Monster | ZipRecruiter | Dice |
-| SimplyHired | CareerBuilder | Wellfound | Snagajob | Jooble | Adzuna |
-| Talent.com | Robert Half | The Muse | BuiltIn | RemoteOK | Greenhouse |
+<table>
+<tr>
+<td>LinkedIn</td>
+<td>Indeed</td>
+<td>Glassdoor</td>
+<td>Monster</td>
+<td>ZipRecruiter</td>
+<td>Dice</td>
+</tr>
+<tr>
+<td>SimplyHired</td>
+<td>CareerBuilder</td>
+<td>Wellfound</td>
+<td>Snagajob</td>
+<td>USAJOBS</td>
+<td>Adzuna</td>
+</tr>
+<tr>
+<td>Talent.com</td>
+<td>BuiltIn</td>
+<td>RemoteOK</td>
+<td>Jobright</td>
+<td>Greenhouse</td>
+<td>Simplify</td>
+</tr>
+<tr>
+<td>FlexJobs</td>
+<td>Handshake</td>
+</tr>
+</table>
 
 ---
 
-## 📥 Get JobGrid
+## 📥 Installation
 
-<p align="center">
-  <a href=
-https://chromewebstore.google.com/detail/jkhlhjmahncflkopgjjglcffghbfllch?utm_source=item-share-cb">
-    <img src="https://img.shields.io/badge/Get%20it%20on-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
-  </a>
-</p>
+**Get JobGrid from the Chrome Web Store:**
 
-<p align="center"><em>🚀 Launched to Chrome Web Store!</em></p>
+[![Chrome Web Store](https://img.shields.io/badge/Get%20it%20on-Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/jkhlhjmahncflkopgjjglcffghbfllch?utm_source=item-share-cb)
+
+---
+
+## 📸 Screenshots
+
+### Split-Screen Job Search
+Search multiple platforms simultaneously and compare results side by side.
+
+### Smart Filters
+Filter by posting time, job type, location, and more.
 
 ---
 
 ## 🛠️ How It Works
 
-1. **Install** → Add JobGrid from Chrome Web Store (free, no sign-up)
-2. **Search** → Enter job title, location, and filters. Select 2-4 platforms
-3. **Compare** → View all results side by side. Apply to jobs you love!
+1. **Install** - Add JobGrid from Chrome Web Store (free)
+2. **Search** - Enter job title, location, and filters. Select 2-4 platforms.
+3. **Compare** - View all results side by side. Apply to jobs you love!
+
+---
+
+## 🆕 What’s New
+
+- Save jobs and mark applied directly from supported job boards
+- Consistent save logic across all 20 platforms
+- Improved stability in the save widget and status tracking
 
 ---
 
 ## 🐛 Found a Bug?
 
-Please [**open an issue**](https://github.com/Rikinshah787/Jobgrid/issues/new?template=bug_report.md) with:
+Please [open an issue](https://github.com/Rikinshah787/Jobgrid/issues) and describe:
 - What happened
-- What you expected  
-- Your browser version
+- What you expected
+- Browser version
 
 ---
 
 ## 💡 Feature Requests
 
-Have an idea? [**Submit a feature request**](https://github.com/Rikinshah787/Jobgrid/issues/new?template=feature_request.md)!
+Have an idea to make JobGrid better? [Submit a feature request](https://github.com/Rikinshah787/Jobgrid/issues)!
 
 ---
 
-## ⭐ Support JobGrid
+## ⭐ Support the Project
 
-If JobGrid helps your job search, please give this repo a **⭐ star**! It helps others discover the tool.
+If JobGrid helps you in your job search, please consider giving this repo a ⭐ star!
 
 ---
 
@@ -85,14 +119,17 @@ If JobGrid helps your job search, please give this repo a **⭐ star**! It helps
 
 **Rikin Shah**
 
-<p>
-  <a href="https://linkedin.com/in/rikimshah787"><img src="https://img.shields.io/badge/LinkedIn-rikimshah787-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/rikinshah787"><img src="https://img.shields.io/badge/GitHub-rikinshah787-181717?style=flat-square&logo=github" alt="GitHub"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rikimshah787-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rikimshah787)
+[![GitHub](https://img.shields.io/badge/GitHub-rikinshah787-181717?style=flat-square&logo=github)](https://github.com/rikinshah787)
+
+---
+
+## 📄 License
+
+Copyright © 2026 JobGrid. All rights reserved.
 
 ---
 
 <p align="center">
-  Made with ❤️ for job seekers everywhere<br>
-  © 2025 JobGrid. All rights reserved.
+  Made with ❤️ for job seekers everywhere
 </p>
